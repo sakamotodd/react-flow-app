@@ -24,6 +24,7 @@ module.exports = {
 		'react/react-in-jsx-scope': 'off',
 		'@typescript-eslint/no-unused-vars': 'off',
 		'unused-imports/no-unused-imports': 'error',
+		'no-unused-vars': 'off',
 		'import/order': [
 			'warn',
 			{

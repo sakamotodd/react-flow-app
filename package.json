@@ -11,8 +11,12 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
+		"@generouted/react-router": "^1.12.7",
+		"generouted": "^1.12.7",
 		"react": "^18.2.0",
-		"react-dom": "^18.2.0"
+		"react-dom": "^18.2.0",
+		"react-router-dom": "^6.11.1",
+		"reactflow": "^11.7.0"
 	},
 	"devDependencies": {
 		"@types/react": "^18.0.28",
